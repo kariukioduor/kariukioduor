@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hi, I am Kariuki</h3>
+<h3 align="center">👋 Hi, It's Kara·oke</h3>
 
 <p align="center">
   <span>Software</span> •
